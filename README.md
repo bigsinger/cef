@@ -1,3 +1,8 @@
+# 2020-3-5
+cef_binary_80.0.4+g74f7b0c+chromium-80.0.3987.122_windows32_minimal
+http://opensource.spotify.com/cefbuilds/index.html#windows32_builds
+
+# 2018-12-15
 3.3578.1860
 [CEF Automated Builds](http://opensource.spotify.com/cefbuilds/index.html)
 
