@@ -7,3 +7,10 @@ http://opensource.spotify.com/cefbuilds/index.html#windows32_builds
 [CEF Automated Builds](http://opensource.spotify.com/cefbuilds/index.html)
 
 [关于MFC中如何使用CEF内核](https://blog.csdn.net/chenlycly/article/details/53352208)
+
+
+
+# 2020年9月2日
+
+cef_binary_85.2.11+g0202816+chromium-85.0.4183.83_windows32_minimal
+
