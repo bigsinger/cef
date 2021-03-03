@@ -1,2 +1,3 @@
 /lib/cef_sandboxD.lib
 /Release/libcef.dll
+/lib/*.lib
