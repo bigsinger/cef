@@ -2,6 +2,12 @@
 
 
 
+# 2022年6月2日
+
+cef_binary_90.6.7+g19ba721+chromium-90.0.4430.212_windows32_minimal
+
+
+
 # 2021年3月3日
 
 cef_binary_88.2.9+g5c8711a+chromium-88.0.4324.182_windows32_minimal
